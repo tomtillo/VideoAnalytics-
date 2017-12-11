@@ -33,4 +33,5 @@ AssertionError: Over-read bin/yolo-voc.weights
 Cause & Solution : The weights and teh .cfg files donot match . Download the right weights+ .cfg file combination ( either from darknet homepage or from the google drive ( link in the previous section )
 
 Reference 
-https://github.com/thtrieu/darkflow 
+darkflow project github - https://github.com/thtrieu/darkflow 
+darknet project github - https://github.com/pjreddie/darknet
