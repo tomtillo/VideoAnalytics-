@@ -33,7 +33,7 @@ AssertionError: Over-read bin/yolo-voc.weights
 Cause & Solution : The weights and teh .cfg files donot match . Download the right weights+ .cfg file combination ( either from darknet homepage or from the google drive ( link in the previous section )
 
 
-# Watch the youtube video here 
+## Watch the youtube video here 
 [![Link to youtube video ](https://img.youtube.com/vi/EngCVyJcUuc/0.jpg)](https://www.youtube.com/watch?v=EngCVyJcUuc)
 
 Reference 
